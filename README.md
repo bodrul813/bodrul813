@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Md. Bodrul Islam</h1>
-
-<a href="https://github.com/bodrul813/"><img src="https:[//github.com/shovoalways/shovoalways/raw/main/img/bg.jpg?raw=true](https://media.licdn.com/dms/image/v2/D5616AQH6GSxk_okVnQ/profile-displaybackgroundimage-shrink_350_1400/B56ZdqQicAGQAc-/0/1749834414316?e=1755734400&v=beta&t=SK0XQuwf5uwH64be-v3XAB94P1ICgWiWEk2yvSSnUXY)" alt="Md.Bodrul Islam" style="max-width: 100%;"></a>
  
 <h3 align="center">A passionate .NET Developer (ASP.NET Core, C# & SQL) from Bangladesh</h3>
 
