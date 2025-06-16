@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Bodrul Islam</h1>
 
-<h3 align="center">A passionate.NET Developer (ASP.NET Core, C# & SQL) from Bangladesh</h3>
+<img src="https:[//raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://media.licdn.com/dms/image/v2/D5616AQH6GSxk_okVnQ/profile-displaybackgroundimage-shrink_350_1400/B56ZdqQicAGQAc-/0/1749834414316?e=1755734400&v=beta&t=SK0XQuwf5uwH64be-v3XAB94P1ICgWiWEk2yvSSnUXY)" width="100" height="100"/>
+ 
+<h3 align="center">A passionate .NET Developer (ASP.NET Core, C# & SQL) from Bangladesh</h3>
 
 - 🌍 Aspiring MSc/PhD candidate **AI, ML & Cybersecurity**
 
@@ -16,7 +18,7 @@
 
 <h3 align="center">About Me:</h3>
 <p align="left">
-I’m Md. Bodrul Islam, a dedicated .NET Developer with expertise in ASP.NET Core, C#, and SQL, and a strong foundation in software engineering and database administration. I completed my B.Sc. in CSE from the University of Dhaka, graduating 2nd in my department.
+I’m Md. Bodrul Islam is a dedicated .NET Developer with expertise in ASP.NET Core, C#, and SQL, and a strong foundation in software engineering and database administration. I completed my B.Sc. in Computer Science and Engineering (CSE) from the University of Dhaka, graduating second in my department.
   
 Alongside development, I’m passionate about AI, Cybersecurity, and Machine Learning—which drives my motivation to pursue a fully funded MSc/PhD abroad. I aspire to contribute to impactful research that bridges innovation and real-world problem-solving.
 
