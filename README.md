@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 🤝 I’m looking for help with **Code**
+- 👯 I’m looking to collaborate on **Code**
 
 - 👨‍💻 All of my projects are [portfolio]
 
