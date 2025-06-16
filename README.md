@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Bodrul Islam</h1>
 <h3 align="center">A passionate.NET Developer (ASP.NET Core, C# & SQL) from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bodrul813&label=Profile%20views&color=0e75b6&style=flat" alt="bodrul813" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bodrul813" alt="bodrul813" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@rafibodrul" target="blank"><img src="https://img.shields.io/twitter/follow/@rafibodrul?logo=twitter&style=for-the-badge" alt="@rafibodrul" /></a> </p>
+- 🌍 Aspiring MSc/PhD candidate **AI, ML & Cybersecurity**
 
 - 🎓 B.Sc. in CSE **University of Dhaka (2nd in class)**
 
@@ -13,17 +9,17 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👯 I’m looking to collaborate on **LinkdIn**
+- 👯 I’m looking to collaborate on **LinkedIn**
 
 - 🤝 I’m looking for help with **Code**
-  
-- 🌍 Aspiring MSc/PhD candidate | Research-driven | Problem-solver
 
-- 🔐 Passionate about AI, Machine Learning, and Cybersecurity
+- 👨‍💻 All of my projects are [portfolio]
 
-- 👨‍💻 All of my projects are available at [protfolio](protfolio
+- 📄 Know about my experiences [CV]
 
-- 📄 Know about my experiences [CV](CV)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bodrul813&label=Profile%20views&color=0e75b6&style=flat" alt="bodrul813" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bodrul813" alt="bodrul813" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
