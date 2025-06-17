@@ -27,7 +27,7 @@ Actively seeking research collaborations and scholarship opportunities for highe
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bodrul813&label=Profile%20views&color=0e75b6&style=flat" alt="bodrul813" /> </p>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=bodrul813&label=Profile%20views&color=0e75b6&style=flat" alt="bodrul813" /> </h3>
 
 
 
