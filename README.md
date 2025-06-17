@@ -30,4 +30,4 @@ Actively seeking research collaborations and scholarship opportunities for highe
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bodrul813&label=Profile%20views&color=0e75b6&style=flat" alt="bodrul813" /> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodrul813&show_icons=true&locale=en&layout=compact" alt="bodrul813" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bodrul813&show_icons=true&locale=en&layout=compact" alt="bodrul813" /></p>
