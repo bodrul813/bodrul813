@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Code**
 
-- 👨‍💻 All of my projects are [portfolio]
+- 👨‍💻 All of my projects visit **portfolio**
 
 <h3 align="center">About Me:</h3>
 <p align="left">
