@@ -2,7 +2,7 @@
  
 <h3 align="center">A passionate AI Agent Automation Expart from Bangladesh</h3>
 
-- 🌍 Aspiring MSc/PhD candidate **AI, ML & Cybersecurity**
+- 🌍 Aspiring MSc/PhD candidate **Applied AI Research**
 
 - 🎓 B.Sc. in CSE **University of Dhaka (2nd in class)**
 
