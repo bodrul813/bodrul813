@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Bodrul Islam</h1>
  
-<h3 align="center">A passionate .NET Developer (ASP.NET Core, C# & SQL) from Bangladesh</h3>
+<h3 align="center">A passionate AI Agent Automation Expart from Bangladesh</h3>
 
 - 🌍 Aspiring MSc/PhD candidate **AI, ML & Cybersecurity**
 
